@@ -1,0 +1,8 @@
+.EquipmentPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: #3899c0;
+    color: wheat;
+}
