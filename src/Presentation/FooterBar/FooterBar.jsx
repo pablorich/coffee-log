@@ -4,7 +4,7 @@ import styles from './FooterBar.module.css';
 const FooterBar = () => {
     return (
         <div className={styles.FooterBar}>
-            Footer
+            Hecho por Pablo Rivera Chávez
         </div>
     )
 }

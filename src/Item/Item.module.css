@@ -1,0 +1,22 @@
+.Item {
+    background-color: #677aaf;
+    color: wheat;
+    width: 20vw;
+    padding: 50px;
+    margin: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.Item_selected {
+    background-color: #384c81;
+    color: wheat;
+    width: 20vw;
+    padding: 50px;
+    margin: 14px;
+    border-radius: 15px;
+    border-color: #0346ff;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+}
