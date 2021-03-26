@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Coffee log
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application helps calculate weights during coffee preparation and save coffee experiments with all their settings and comments
 
 ## Available Scripts
 
