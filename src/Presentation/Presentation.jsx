@@ -31,7 +31,17 @@ const Presentation = () => {
             name: 'Mecanismo de molino',
             weight: 103,
             toggled: false
-        }
+        },
+        {
+            name: 'Frasco de prensa',
+            weight: 316,
+            toggled: false
+        },
+        {
+            name: 'Mecanismo de prensa',
+            weight: 113,
+            toggled: false
+        },
     ])
     const [totalWeight, setTotalWeight] = useState(0)
 
